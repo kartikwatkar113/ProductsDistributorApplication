@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* this is for login page */
+/* .log{
+	border:1px solid;
+	border-radius:2px;
+	background-color:#b39ddb;
+	height:250px;
+}
+
+
+ */
+.myFlex{
+	
+	display:flex;
+	background-color:#ede7f6;
+	justify-content:space-between;
+	min-height:728px;
+	
+}
+.menubar{
+	flex-basis:15%;
+}
+.content{
+	
+	flex-basis:90%;
+	
+	background-color:#b39ddb;
+}
